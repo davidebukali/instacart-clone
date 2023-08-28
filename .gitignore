@@ -1,2 +1,5 @@
 /node_modules
+/.next
+/.vscode
 .bash_profile
+
